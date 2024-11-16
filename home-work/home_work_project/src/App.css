@@ -1,0 +1,35 @@
+
+.app-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 50px;
+}
+
+.controls {
+  margin: 20px 0;
+}
+
+select {
+  padding: 10px;
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+button {
+  background-color: blue;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.color-box {
+  width: 200px;
+  height: 200px;
+  margin: 20px auto;
+  border: 3px solid #010101;
+  border-radius: 5px;
+ 
+  font-size: 18px;
+  color: #fff;
+}
+
